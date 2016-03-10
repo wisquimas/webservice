@@ -1,0 +1,246 @@
+{"ok":true,"mensaje":"","data":[{"nombre":"wisquimas","MaxScore":"666"}]}
+{"ok":false,"mensaje":"<p>No existe la funcion: hola<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+<pre>object(Wisquimas\ControladorRequests)#6 (3) {
+  ["request":protected]=>
+  NULL
+  ["mensajes":protected]=>
+  object(Wisquimas\Mensajes)#9 (3) {
+    ["ok"]=>
+    bool(true)
+    ["mensajes"]=>
+    array(0) {
+    }
+    ["data":"Wisquimas\Mensajes":private]=>
+    array(0) {
+    }
+  }
+  ["db":protected]=>
+  object(Wisquimas\Db)#7 (3) {
+    ["db_path":"Wisquimas\Db":private]=>
+    string(51) "C:\MAMP\htdocs\unity\servers\spaceShooterServer\db\"
+    ["jsonDB"]=>
+    object(JsonDB)#8 (3) {
+      ["path":protected]=>
+      string(51) "C:\MAMP\htdocs\unity\servers\spaceShooterServer\db\"
+      ["fileExt":protected]=>
+      string(5) ".json"
+      ["tables":protected]=>
+      array(1) {
+        [0]=>
+        string(5) "users"
+      }
+    }
+    ["tablas":"Wisquimas\Db":private]=>
+    array(1) {
+      [0]=>
+      string(5) "users"
+    }
+  }
+}
+</pre>{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+<pre>object(Wisquimas\ControladorRequests)#6 (3) {
+  ["request":protected]=>
+  NULL
+  ["mensajes":protected]=>
+  object(Wisquimas\Mensajes)#9 (3) {
+    ["ok"]=>
+    bool(true)
+    ["mensajes"]=>
+    array(0) {
+    }
+    ["data":"Wisquimas\Mensajes":private]=>
+    array(0) {
+    }
+  }
+  ["db":protected]=>
+  object(Wisquimas\Db)#7 (3) {
+    ["db_path":"Wisquimas\Db":private]=>
+    string(51) "C:\MAMP\htdocs\unity\servers\spaceShooterServer\db\"
+    ["jsonDB"]=>
+    object(JsonDB)#8 (3) {
+      ["path":protected]=>
+      string(51) "C:\MAMP\htdocs\unity\servers\spaceShooterServer\db\"
+      ["fileExt":protected]=>
+      string(5) ".json"
+      ["tables":protected]=>
+      array(1) {
+        [0]=>
+        string(5) "users"
+      }
+    }
+    ["tablas":"Wisquimas\Db":private]=>
+    array(1) {
+      [0]=>
+      string(5) "users"
+    }
+  }
+}
+</pre>{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+<pre>object(Wisquimas\ControladorRequests)#6 (3) {
+  ["request":protected]=>
+  NULL
+  ["mensajes":protected]=>
+  object(Wisquimas\Mensajes)#9 (3) {
+    ["ok"]=>
+    bool(true)
+    ["mensajes"]=>
+    array(0) {
+    }
+    ["data":"Wisquimas\Mensajes":private]=>
+    array(0) {
+    }
+  }
+  ["db":protected]=>
+  object(Wisquimas\Db)#7 (3) {
+    ["db_path":"Wisquimas\Db":private]=>
+    string(51) "C:\MAMP\htdocs\unity\servers\spaceShooterServer\db\"
+    ["jsonDB"]=>
+    object(JsonDB)#8 (3) {
+      ["path":protected]=>
+      string(51) "C:\MAMP\htdocs\unity\servers\spaceShooterServer\db\"
+      ["fileExt":protected]=>
+      string(5) ".json"
+      ["tables":protected]=>
+      array(1) {
+        [0]=>
+        string(5) "users"
+      }
+    }
+    ["tablas":"Wisquimas\Db":private]=>
+    array(1) {
+      [0]=>
+      string(5) "users"
+    }
+  }
+}
+</pre>{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No existe la funcion: GetUserData<\/p>","data":[]}
+{"ok":true,"mensaje":"","data":[]}
+{"ok":true,"mensaje":"","data":[]}
+{"ok":true,"mensaje":"","data":[]}
+<pre>object(Wisquimas\CustomRequest)#6 (3) {
+  ["request":protected]=>
+  NULL
+  ["mensajes":protected]=>
+  object(Wisquimas\Mensajes)#9 (3) {
+    ["ok"]=>
+    bool(true)
+    ["mensajes"]=>
+    array(0) {
+    }
+    ["data":"Wisquimas\Mensajes":private]=>
+    array(0) {
+    }
+  }
+  ["db":protected]=>
+  object(Wisquimas\Db)#7 (3) {
+    ["db_path":"Wisquimas\Db":private]=>
+    string(51) "C:\MAMP\htdocs\unity\servers\spaceShooterServer\db\"
+    ["jsonDB"]=>
+    object(JsonDB)#8 (3) {
+      ["path":protected]=>
+      string(51) "C:\MAMP\htdocs\unity\servers\spaceShooterServer\db\"
+      ["fileExt":protected]=>
+      string(5) ".json"
+      ["tables":protected]=>
+      array(1) {
+        [0]=>
+        string(5) "users"
+      }
+    }
+    ["tablas":"Wisquimas\Db":private]=>
+    array(1) {
+      [0]=>
+      string(5) "users"
+    }
+  }
+}
+</pre><pre>string(11) "GetUserData"
+</pre>{"ok":true,"mensaje":"","data":[]}
+<pre>object(Wisquimas\CustomRequest)#6 (3) {
+  ["request":protected]=>
+  NULL
+  ["mensajes":protected]=>
+  object(Wisquimas\Mensajes)#9 (3) {
+    ["ok"]=>
+    bool(true)
+    ["mensajes"]=>
+    array(0) {
+    }
+    ["data":"Wisquimas\Mensajes":private]=>
+    array(0) {
+    }
+  }
+  ["db":protected]=>
+  object(Wisquimas\Db)#7 (3) {
+    ["db_path":"Wisquimas\Db":private]=>
+    string(51) "C:\MAMP\htdocs\unity\servers\spaceShooterServer\db\"
+    ["jsonDB"]=>
+    object(JsonDB)#8 (3) {
+      ["path":protected]=>
+      string(51) "C:\MAMP\htdocs\unity\servers\spaceShooterServer\db\"
+      ["fileExt":protected]=>
+      string(5) ".json"
+      ["tables":protected]=>
+      array(1) {
+        [0]=>
+        string(5) "users"
+      }
+    }
+    ["tablas":"Wisquimas\Db":private]=>
+    array(1) {
+      [0]=>
+      string(5) "users"
+    }
+  }
+}
+</pre><pre>string(11) "GetUserData"
+</pre>{"ok":true,"mensaje":"","data":[{"nombre":"wisquimas","MaxScore":"666"}]}
+{"ok":true,"mensaje":"","data":[{"nombre":"wisquimas","MaxScore":"666"}]}
+{"ok":false,"mensaje":"<p>No se ha podido generar el usuario<\/p>","data":[]}
+{"ok":true,"mensaje":"","data":[]}
+{"ok":true,"mensaje":"","data":[{"ID":"037993f7b1c8c9ba72426f44f6fd9901518bee06","MaxScore":40}]}
+{"ok":true,"mensaje":"","data":[{"ID":"6f7a186c89a5fe1c11908e89de67906d4120fbf0","MaxScore":0}]}
+{"ok":true,"mensaje":"","data":[{"ID":"6f7a186c89a5fe1c11908e89de67906d4120fbf0","MaxScore":105}]}
+{"ok":true,"mensaje":"","data":[{"ID":"6f7a186c89a5fe1c11908e89de67906d4120fbf0","MaxScore":105}]}
+{"ok":true,"mensaje":"","data":[{"ID":"6f7a186c89a5fe1c11908e89de67906d4120fbf0","MaxScore":105}]}
+{"ok":true,"mensaje":"","data":[{"ID":"6f7a186c89a5fe1c11908e89de67906d4120fbf0","MaxScore":245}]}
+{"ok":true,"mensaje":"","data":[{"ID":"6f7a186c89a5fe1c11908e89de67906d4120fbf0","MaxScore":245}]}
+{"ok":true,"mensaje":"","data":[]}
+{"ok":false,"mensaje":"<p>No hay suficiente informaci\u00f3n para hacer el request<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>Testeo de error<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>Testeo de error<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>Testeo de error<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>Testeo de error<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>Testeo de error<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>Testeo de error<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>1<\/p><p>Testeo de error<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>No se ha devuelto una estructura de Objecto dada de alta en el sistema<\/p><p>Testeo de error<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>Testeo de error<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>Wisquimas<\/p><p>Testeo de error<\/p>","data":[]}
+{"ok":true,"mensaje":"","data":[]}
+{"ok":true,"mensaje":"","data":[]}
+{"ok":true,"mensaje":"","data":[]}
+{"ok":true,"mensaje":"","data":[]}
+{"ok":true,"mensaje":"","data":[{"IdUsuario":0,"IdBici":2,"donacion":null,"fecha":""}]}
+{"ok":false,"mensaje":"<p>La bicicleta ya ha sido reservado, refresca la p\u00e1gina por favor<\/p>","data":[]}
+{"ok":false,"mensaje":"<p>La bicicleta ya ha sido reservado, refresca la p\u00e1gina por favor<\/p>","data":[]}
+{"ok":true,"mensaje":"","data":[{"IdUsuario":0,"IdBici":2,"donacion":null,"fecha":"29 February, 2016"}]}
+{"ok":false,"mensaje":"<p>La bicicleta ya ha sido reservado, refresca la p\u00e1gina por favor<\/p>","data":[]}
+{"ok":true,"mensaje":"","data":[{"IdUsuario":1,"IdBici":2,"donacion":null,"fecha":"29 February, 2016"}]}
+{"ok":true,"mensaje":"","data":[{"IdUsuario":1,"IdBici":2,"donacion":null,"fecha":"2016-02-29 12:52:23"}]}
+{"ok":true,"mensaje":"","data":[{"IdUsuario":1,"IdBici":2,"donacion":null,"fecha":"2016-02-29 12:54:05"}]}

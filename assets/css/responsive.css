@@ -1,0 +1,80 @@
+@media screen and (max-width : 1090px){
+    .calendario {
+        zoom: 0.7;
+        -ms-zoom:0.7;
+    }
+}
+@media screen and (max-width : 799px){
+    div#WW--Loguin .registroinfo {
+        margin-bottom: 25px!important;
+    }
+    .calendario {
+        zoom: 0.5;
+        -ms-zoom:0.35;
+        width: 1100px;
+    }
+    .calendario>*{
+        pointer-events: none;
+    }
+    .instructor-ww {
+        font-size: 10px;
+    }
+    .main-text {
+        width: 95%;
+    }
+    #selectorBicis{
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        background-color: rgb(245, 245, 245);
+        width: 200px;
+        height: 35px;
+        padding: 0px 15px;
+        border: none;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-weight: 600 !important;
+    }
+    div#WW--Loguin .registroinfo, .datos--clase-ww {
+        width: 70%;
+        max-width: 100%;
+        margin: 0 auto;
+        display: block;
+    }
+    .titledatos {
+        width: 85px;
+    }
+}
+@media screen and (max-width : 555px){
+    div#WW--Loguin .registroinfo, .datos--clase-ww{
+        width: 100%;
+    }
+    .linea-datos .font12 {
+        font-size: 10px;
+    }
+    .calendario {
+        zoom: 0.35;
+        -ms-zoom:0.35;
+        position: relative;
+        left: -3%;
+    }
+    .instructor-ww {
+        font-size: 6px;
+    }
+    .bici-ww{
+        line-height: 39px;
+        width: 39px;
+        font-size: 7px;
+    }
+    .fila-2, .fila-5 {
+        position: relative;
+        left: 10%;
+    }
+    .fila-4, .fila-7 {
+        position: relative;
+        right: 7%;
+    }
+    div#WW--mensaje {
+        width: 80%;
+        margin: 0 auto;
+    }
+}
